@@ -37,9 +37,9 @@
     cursor: pointer;
   }
 
-  /*.close {
+  .close {
     position: absolute;
     top: 24px;
     right: 16px;
-  }*/
+  }
 }
