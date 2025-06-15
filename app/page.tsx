@@ -14,9 +14,9 @@ export default async function Home() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>テクノロジーの力で世界を変える</h1>
+          <h1 className={styles.title}>食洗機は素晴らしきサポート家電</h1>
           <p className={styles.description}>
-            私たちは市場でリードしているグローバルテックカンパニーです。
+            一旦、生活にゆとりを増やしましょう。
           </p>
         </div>
         <Image

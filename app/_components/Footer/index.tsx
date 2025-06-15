@@ -7,13 +7,13 @@ export default function Footer() {
       <nav className={styles.nav}>
         <ul className={styles.items}>
           <li className={styles.item}>
-            <Link href="/news">ニュース</Link>
+            <Link href="/news">記事一覧</Link>
           </li>
           <li className={styles.item}>
-            <Link href="/members">メンバー</Link>
+            <Link href="/members">自己紹介（今後作成予定）</Link>
           </li>
           <li className={styles.item}>
-            <Link href="/contact">お問い合わせ</Link>
+            <Link href="/contact">お問い合わせ（今後作成予定）</Link>
           </li>
         </ul>
       </nav>
