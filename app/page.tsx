@@ -21,7 +21,7 @@ export default async function Home() {
         </div>
         <Image
           className={styles.bgimg}
-          src="/img-mv.jpg"
+          src="/img-washing-machine.png"
           alt=""
           width={4000}
           height={1200}
