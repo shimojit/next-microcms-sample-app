@@ -23,6 +23,9 @@ export default function Menu() {
           <li>
             <Link href="/contact">お問い合わせ（今後作成予定）</Link>
           </li>
+          <li>
+            <Link href="/test">食洗器ページ（テスト用ページ）</Link>
+          </li>
         </ul>
         <button className={cx(styles.button, styles.close)} onClick={close}>
           <Image
