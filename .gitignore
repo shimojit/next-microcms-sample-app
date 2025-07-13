@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # genimi
-/app/_components/_genimi/*.txt
+/app/_components/_genimi/
